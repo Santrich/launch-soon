@@ -1,0 +1,15 @@
+---
+background.jpg: background-d2ce963237c99f79903cea7be959bd71.jpg
+background/index.jpg: background-d2ce963237c99f79903cea7be959bd71.jpg
+background2.jpg: background2-268beca0a7e335f50d088a693d8299d2.jpg
+background2/index.jpg: background2-268beca0a7e335f50d088a693d8299d2.jpg
+vainillastore.jpg: vainillastore-7a701991f71d5acf072012287bb51b39.jpg
+vainillastore/index.jpg: vainillastore-7a701991f71d5acf072012287bb51b39.jpg
+application.js: application-a7895730f6568789e2b23024b3f3cf9b.js
+application/index.js: application-a7895730f6568789e2b23024b3f3cf9b.js
+application.css: application-70b051a6cc9b3354829304c958598a2a.css
+application/index.css: application-70b051a6cc9b3354829304c958598a2a.css
+jquery.min.map: jquery.min-e146c025d6a36461812bc97143056bd3.map
+jquery/index.min.map: jquery.min-e146c025d6a36461812bc97143056bd3.map
+vendor/modernizr.js: vendor/modernizr-db5f5319be340bfbd54880241b9cf0ab.js
+vendor/modernizr/index.js: vendor/modernizr-db5f5319be340bfbd54880241b9cf0ab.js
