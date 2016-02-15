@@ -1,11 +1,11 @@
 # Mailchimp API Key
-MAILCHIMP_API_KEY = 'API_KEY'
+MAILCHIMP_API_KEY = 'ddeeaa9a6c14ffda66544d110e8f3ec1-us12'
 
 # Mailchimp Mailing List ID
-MAILCHIMP_LIST_ID = 'LIST_ID'
+MAILCHIMP_LIST_ID = '819bf68753'
 
 # This site's domain name, including the www. if required (ie: google.com):
-SITE_DOMAIN = 'DOMAIN.TLD'
+SITE_DOMAIN = 'http://stormy-thicket-91515.herokuapp.com/'
 
 # Title tag for the site:
 # SITE_TITLE = 'Title'
